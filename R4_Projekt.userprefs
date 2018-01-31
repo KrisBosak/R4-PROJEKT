@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4A198132-8D87-4584-8B3C-166D722A23AC}|Default">
+  <MonoDevelop.Ide.ItemProperties.R4__Projekt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="R4_Projekt Status">
+    <Files>
+      <File FileName="Model\Konzumacija_hrane_i_pica.cs" Line="1" Column="1" />
+      <File FileName="R4_Projekt Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
